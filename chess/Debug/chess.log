@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\teaching\c++\chess\chess\main.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\teaching\c++\chess\chess\main.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\teaching\c++\chess\chess\main.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\teaching\c++\chess\chess\main.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\teaching\c++\chess\chess\main.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\teaching\c++\chess\chess\main.cpp(84): warning C4305: '+=': truncation from 'double' to 'float'
+  chess.vcxproj -> C:\Teaching\C++\chess\Debug\chess.exe
